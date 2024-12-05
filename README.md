@@ -34,5 +34,4 @@
     <br>
     park12010@naver.com
     <br>
-    https://www.linkedin.com/in/박시은-32168b2b1
 </div>
