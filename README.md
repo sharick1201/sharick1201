@@ -32,6 +32,6 @@
 <br><br><br>
 <Strong>📫 Contact</Strong>
     <br>
-    park12010@naver.com
+    park12010@yonsei.ac.kr
     <br>
 </div>
