@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3CA55C,100:B5AC49&text=Sieun%20Park&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=32&animation=fadeIn&descSize=20&descAlignY=50" alt="Sieun Park Header">
-</div>
-<br>
-<br>
 <h2 align="center">논리와 대화, 두 세계를 잇기</h2>
 
 
