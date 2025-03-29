@@ -3,16 +3,24 @@
 
 <p align="center">
     연세대학교 철학과 | 인지과학과<br>
-    관심 분야: 백엔드, 인공지능의 철학적 논의(인공지능 윤리, 인공지능 존재론)및 디지털 인문학<br><br>
 </p>
+
+<p align="center">
+    <Strong>✅ Areas of Interest</Strong><br>
+<p>
+    - 백엔드<br>
+    - 인공지능의 철학적 논의 (인공지능 윤리, 인공지능 존재론)<br>
+    - 디지털 인문학<br><br></p>
+
 <p align="center">
     <Strong>✅ What I've Done</Strong><br>
 </p>
-<div align=center>
-    <Strong>2024.09 ~ 2024.12</Strong>   | University MakeUs Challenge(UMC) 7th: Yonsei University SpringBoot Part Leader<br>
-    <Strong>2025.01 ~ 2025.02</Strong>   | University MakeUs Challenge(UMC) 7th: "Duckmelang"(iOS app) Backend (https://github.com/duckmelang)
 
+<div>
+    <Strong>2024.09 ~ 2024.12</Strong>   | University MakeUs Challenge(UMC) 7th: Yonsei University SpringBoot 파트장<br>
+    <Strong>2025.01 ~ 2025.02</Strong>   | University MakeUs Challenge(UMC) 7th: "덕메랑Duckmelang"(iOS app) Backend <a href="https://github.com/duckmelang">GitHub</a><br>
 </div>
+
 <br>
 <br>
 <p align="center">
