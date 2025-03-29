@@ -8,9 +8,11 @@
 <p align="center">
     <Strong>✅ Areas of Interest</Strong><br>
 <p>
-    - 백엔드<br>
-    - 인공지능의 철학적 논의 (인공지능 윤리, 인공지능 존재론)<br>
-    - 디지털 인문학<br><br></p>
+<p align="center">
+    백엔드<br>
+    인공지능의 철학적 논의 (인공지능 윤리, 인공지능 존재론)<br>
+    디지털 인문학<br><br>
+</p>
 
 <p align="center">
     <Strong>✅ What I've Done</Strong><br>
