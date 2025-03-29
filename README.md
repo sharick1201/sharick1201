@@ -22,7 +22,7 @@
     <thead>
         <tr>
             <th>기간</th>
-            <th>활동 내용</th>
+            <th>내용</th>
         </tr>
     </thead>
     <tbody>
