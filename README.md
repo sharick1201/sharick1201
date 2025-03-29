@@ -10,7 +10,7 @@
 </p>
 <div align=center>
     <Strong>2024.09 ~ 2024.12</Strong>   | University MakeUs Challenge(UMC) 7th: Yonsei University SpringBoot Part Leader<br>
-    <Strong>2025.01 ~ 2025.02</Strong>   | University MakeUs Challenge(UMC) 7th: "Duckmelang"(iOS app) Backend [Duckelang Repository Link](https://github.com/duckmelang)
+    <Strong>2025.01 ~ 2025.02</Strong>   | University MakeUs Challenge(UMC) 7th: "Duckmelang"(iOS app) Backend (https://github.com/duckmelang)
 
 </div>
 <br>
