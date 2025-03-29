@@ -80,8 +80,11 @@
 <div align=center>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000080?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <br><br><br>
 <Strong>📫 Contact</Strong>
     <br>
