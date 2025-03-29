@@ -19,6 +19,12 @@
 </p>
 
 <div>
+    <Strong>2020.03 ~ 2020.06</Strong>   | 교내 철학학회 위사일오 학회원<br>
+    <Strong>2021.01 ~ 2022.12</Strong>   | 문과대학 철학과 학생회 <철심> 학술국장: 과내 학술활동 소모임 프로그램 기획, 서산철학강좌 운영 참여 및 사회<br>
+    <Strong>2021.01 ~ 2022.02</Strong>   | 교내 철학학회 위사일오 학회장: 학회 운영 및 관리, 학회지 <새벽철학> 편집 및 간행<br>
+    <Strong>2022.09 ~ 2022.12</Strong>   | 2022학년도 대학혁신지원사업 융복합적 사회문제해결 경진대회 우수상: 「인터넷 상 이미지 데이터 편향(Social bias)의 CNN을 통한 분석—생성적 적대 신경망의 결과물을 바탕으로」<br>
+    <Strong>2023.07 ~ 2023.10</Strong>   | 제 1회 철학과 연합 학술대회 본선 2위: 공동소논문 「인포스피어 존재론: 물질, 의미, 정보의 삼자관계를 중심으로」<br>
+    <Strong>2023.09 ~ 2023.12</Strong>   | 교내 철학학회 위사일오 학회원<br>
     <Strong>2024.09 ~ 2024.12</Strong>   | University MakeUs Challenge(UMC) 7th: Yonsei University SpringBoot 파트장<br>
     <Strong>2025.01 ~ 2025.02</Strong>   | University MakeUs Challenge(UMC) 7th: "덕메랑Duckmelang"(iOS app) Backend <a href="https://github.com/duckmelang">GitHub</a><br>
 </div>
