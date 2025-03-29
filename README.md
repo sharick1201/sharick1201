@@ -6,7 +6,14 @@
 </p>
 
 <p align="center">
-    <Strong>✅ Areas of Interest</Strong><br>
+    <Strong>🐴 Nowadays I'm doing</Strong><br>
+<p>
+<p align="center">
+    studying Data Structure, Operating System, Computer Architecture in university <br><br>
+</p>
+
+<p align="center">
+    <Strong>🤨 Areas of Interest</Strong><br>
 <p>
 <p align="center">
     백엔드<br>
@@ -15,7 +22,7 @@
 </p>
 
 <p align="center">
-    <Strong>✅ What I've Done</Strong><br>
+    <Strong>💅 What I've Done</Strong><br>
 </p>
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
