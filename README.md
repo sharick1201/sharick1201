@@ -20,11 +20,12 @@
     인공지능의 철학적 논의 (인공지능 윤리, 인공지능 존재론)<br>
     디지털 인문학<br><br>
 </p>
--->
 
 <p align="center">
     <Strong>💅 What I've Done</Strong><br>
 </p>
+-->
+
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
