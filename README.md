@@ -94,12 +94,13 @@
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000080?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 </div>
-
 -->
+
 <br><br><br> 
-<div align=center>
-<Strong>📫 Contact</Strong>
+<p align="center">
+    <Strong>📫 Contact</Strong>
     <br>
     park12010@yonsei.ac.kr
     <br>
 </div>
+</p>
