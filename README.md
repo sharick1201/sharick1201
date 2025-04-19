@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    연세대학교 철학과 | 인지과학과<br>
+    연세대학교 철학과 | 인지과학과<br><br><br>
 </p>
 
 <!--<p align="center">
