@@ -36,6 +36,10 @@
     </thead>
     <tbody>
         <tr>
+            <td><strong>2020.03</strong></td>
+            <td>연세대학교 철학과 입학</td>
+        </tr>
+        <tr>
             <td><strong>2020.03 ~ 2020.06</strong></td>
             <td>교내 철학학회 위사일오 학회원</td>
         </tr>
