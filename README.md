@@ -64,6 +64,10 @@
             <td>교내 철학학회 위사일오 학회원</td>
         </tr>
         <tr>
+            <td><strong>2024.03 ~ 2024.11</strong></td>
+            <td>(주)이너웨이브 인허가팀 사원</td>
+        </tr>                
+        <tr>
             <td><strong>2024.09 ~ 2024.12</strong></td>
             <td>University MakeUs Challenge(UMC) 7th: Yonsei University SpringBoot 파트장</td>
         </tr>
